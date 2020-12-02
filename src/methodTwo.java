@@ -1,9 +1,9 @@
 public class methodTwo {
 
 
-    public static void method3(){
+    public static void method2(){
 
-        System.out.println("Method3 called");
+        System.out.println("Method2 called");
 
     }
 }
