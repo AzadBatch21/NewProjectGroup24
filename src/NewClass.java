@@ -3,6 +3,7 @@ public class NewClass {
 
 
         System.out.println("Hello");
-
+       
+ System.out.println("Hell Group");
     }
 }
