@@ -9,9 +9,5 @@ public class NewClass {
         firstMethod.method1();
 
         System.out.println("new comments");
-
-        methodTwo.method2();
-        methodTree.method3();
     }
-
 }
