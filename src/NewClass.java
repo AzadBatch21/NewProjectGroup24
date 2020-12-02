@@ -9,5 +9,7 @@ public class NewClass {
         firstMethod.method1();
 
         System.out.println("new comments");
+        methodThree.method3();
+        methodTwo.method2();
     }
 }
