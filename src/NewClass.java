@@ -7,5 +7,7 @@ public class NewClass {
         System.out.println("Hello Group");
 
         firstMethod.method1();
+
+        System.out.println("new comments");
     }
 }
