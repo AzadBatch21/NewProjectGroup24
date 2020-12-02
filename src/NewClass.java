@@ -5,5 +5,7 @@ public class NewClass {
         System.out.println("Hello");
 
         System.out.println("Hello Group");
+
+        firstMethod.method1();
     }
 }
